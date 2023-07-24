@@ -59,7 +59,7 @@ public class base {
 	}
 	
 	public String screenshot() throws IOException {
-		setupbrowser("chrome");
+		//setupbrowser("chrome");
 		Date d= new Date();
 		String testname=d.toString().replace(" ","--").replace(":","--");
 		File src=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);

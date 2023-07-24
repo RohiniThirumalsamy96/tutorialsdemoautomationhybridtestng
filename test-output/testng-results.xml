@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="12" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-24T19:56:52 IST" name="Suite" finished-at="2023-07-24T19:57:57 IST" duration-ms="64604">
+    <groups>
+    </groups>
+    <test started-at="2023-07-24T19:56:52 IST" name="Test" finished-at="2023-07-24T19:57:57 IST" duration-ms="64604">
+      <class name="com.tutorialsqa.testcases.LoginTest">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:19 IST" name="browsersetup" finished-at="2023-07-24T19:57:22 IST" duration-ms="3342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyloginwithvalidcredentials(java.lang.String,java.lang.String)[pri:1, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:22 IST" name="verifyloginwithvalidcredentials" data-provider="login" finished-at="2023-07-24T19:57:23 IST" duration-ms="1138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rohinirose443@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rohini96@#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginwithvalidcredentials -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:23 IST" name="exit" finished-at="2023-07-24T19:57:24 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:24 IST" name="browsersetup" finished-at="2023-07-24T19:57:27 IST" duration-ms="2932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyloginwithvalidcredentials(java.lang.String,java.lang.String)[pri:1, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:27 IST" name="verifyloginwithvalidcredentials" data-provider="login" finished-at="2023-07-24T19:57:28 IST" duration-ms="1125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rohinirose443@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rohini96@#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginwithvalidcredentials -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:28 IST" name="exit" finished-at="2023-07-24T19:57:28 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:28 IST" name="browsersetup" finished-at="2023-07-24T19:57:31 IST" duration-ms="3181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyloginwithvalidcredentials(java.lang.String,java.lang.String)[pri:1, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:31 IST" name="verifyloginwithvalidcredentials" data-provider="login" finished-at="2023-07-24T19:57:32 IST" duration-ms="1164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rohinirose443@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rohini96@#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginwithvalidcredentials -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:32 IST" name="exit" finished-at="2023-07-24T19:57:33 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:33 IST" name="browsersetup" finished-at="2023-07-24T19:57:36 IST" duration-ms="3279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyinvlaidlogincredentials()[pri:2, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:36 IST" name="verifyinvlaidlogincredentials" finished-at="2023-07-24T19:57:37 IST" duration-ms="952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvlaidlogincredentials -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:37 IST" name="exit" finished-at="2023-07-24T19:57:37 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:37 IST" name="browsersetup" finished-at="2023-07-24T19:57:40 IST" duration-ms="3219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyinvlaidemailandvalidpass()[pri:3, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:40 IST" name="verifyinvlaidemailandvalidpass" finished-at="2023-07-24T19:57:41 IST" duration-ms="1064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvlaidemailandvalidpass -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:41 IST" name="exit" finished-at="2023-07-24T19:57:42 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:42 IST" name="browsersetup" finished-at="2023-07-24T19:57:45 IST" duration-ms="3216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyvlaidemailandinvalidpass()[pri:4, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:45 IST" name="verifyvlaidemailandinvalidpass" finished-at="2023-07-24T19:57:46 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyvlaidemailandinvalidpass -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:46 IST" name="exit" finished-at="2023-07-24T19:57:46 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:46 IST" name="browsersetup" finished-at="2023-07-24T19:57:49 IST" duration-ms="2946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifywthoutcred()[pri:5, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:49 IST" name="verifywthoutcred" finished-at="2023-07-24T19:57:49 IST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywthoutcred -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.LoginTest@2f4948e4]" started-at="2023-07-24T19:57:49 IST" name="exit" finished-at="2023-07-24T19:57:50 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.tutorialsqa.testcases.LoginTest -->
+      <class name="com.tutorialsqa.testcases.SearchTest">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.SearchTest@3fc2959f]" started-at="2023-07-24T19:57:50 IST" name="browsersetup" finished-at="2023-07-24T19:57:52 IST" duration-ms="2692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifysearchwithvalidprod()[pri:1, instance:com.tutorialsqa.testcases.SearchTest@3fc2959f]" started-at="2023-07-24T19:57:52 IST" name="verifysearchwithvalidprod" finished-at="2023-07-24T19:57:53 IST" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysearchwithvalidprod -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.SearchTest@3fc2959f]" started-at="2023-07-24T19:57:53 IST" name="exit" finished-at="2023-07-24T19:57:53 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.SearchTest@3fc2959f]" started-at="2023-07-24T19:57:53 IST" name="browsersetup" finished-at="2023-07-24T19:57:56 IST" duration-ms="2647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifysearchwithinvalidprod()[pri:2, instance:com.tutorialsqa.testcases.SearchTest@3fc2959f]" started-at="2023-07-24T19:57:56 IST" name="verifysearchwithinvalidprod" finished-at="2023-07-24T19:57:56 IST" duration-ms="492" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at com.tutorialsqa.testcases.SearchTest.verifysearchwithinvalidprod(SearchTest.java:59)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysearchwithinvalidprod -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.SearchTest@3fc2959f]" started-at="2023-07-24T19:57:57 IST" name="exit" finished-at="2023-07-24T19:57:57 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method signature="verifysearchwithoutprodname()[pri:3, instance:com.tutorialsqa.testcases.SearchTest@3fc2959f]" started-at="2023-07-24T19:57:57 IST" name="verifysearchwithoutprodname" finished-at="2023-07-24T19:57:57 IST" depends-on-methods="com.tutorialsqa.testcases.SearchTest.verifysearchwithinvalidprod" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method com.tutorialsqa.testcases.SearchTest.verifysearchwithoutprodname() on instance com.tutorialsqa.testcases.SearchTest@3fc2959f depends on not successfully finished methods 
+[com.tutorialsqa.testcases.SearchTest.verifysearchwithinvalidprod() on instance com.tutorialsqa.testcases.SearchTest@3fc2959f]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method com.tutorialsqa.testcases.SearchTest.verifysearchwithoutprodname() on instance com.tutorialsqa.testcases.SearchTest@3fc2959f depends on not successfully finished methods 
+[com.tutorialsqa.testcases.SearchTest.verifysearchwithinvalidprod() on instance com.tutorialsqa.testcases.SearchTest@3fc2959f]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:156)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysearchwithoutprodname -->
+      </class> <!-- com.tutorialsqa.testcases.SearchTest -->
+      <class name="com.tutorialsqa.testcases.RegisterTest">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:56:53 IST" name="browsersetup" finished-at="2023-07-24T19:57:00 IST" duration-ms="6806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyregisterwithmandatoryfeilds()[pri:1, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:00 IST" name="verifyregisterwithmandatoryfeilds" finished-at="2023-07-24T19:57:02 IST" duration-ms="1815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregisterwithmandatoryfeilds -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:02 IST" name="exit" finished-at="2023-07-24T19:57:02 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:02 IST" name="browsersetup" finished-at="2023-07-24T19:57:06 IST" duration-ms="3905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyregisterwithallfeilds()[pri:2, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:06 IST" name="verifyregisterwithallfeilds" finished-at="2023-07-24T19:57:08 IST" duration-ms="1830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregisterwithallfeilds -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:08 IST" name="exit" finished-at="2023-07-24T19:57:08 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:08 IST" name="browsersetup" finished-at="2023-07-24T19:57:12 IST" duration-ms="3707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyregisterwithexistingemail()[pri:3, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:12 IST" name="verifyregisterwithexistingemail" finished-at="2023-07-24T19:57:13 IST" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregisterwithexistingemail -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:13 IST" name="exit" finished-at="2023-07-24T19:57:13 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:13 IST" name="browsersetup" finished-at="2023-07-24T19:57:17 IST" duration-ms="3429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="verifyregisterwithoutgivingdetails()[pri:4, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:17 IST" name="verifyregisterwithoutgivingdetails" finished-at="2023-07-24T19:57:18 IST" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregisterwithoutgivingdetails -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.tutorialsqa.testcases.RegisterTest@30c15d8b]" started-at="2023-07-24T19:57:18 IST" name="exit" finished-at="2023-07-24T19:57:18 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.tutorialsqa.testcases.RegisterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
